@@ -1,23 +1,23 @@
-E-commerce Database Management System
+# E-commerce Database Management System
 
 This project involves the development of a comprehensive database management system for an e-commerce platform. The system is designed to handle various aspects of online retail operations, including inventory management, order processing, customer information, product cataloging, and shipping logistics.
 
-Business Requirements:
+## Business Requirements:
 
-Create a relational database structure to support e-commerce operations
+Create a relational database structure to support e-commerce operations.
 
-Implement tables for products, inventory, orders, customers, sellers, and shipping
+Implement tables for products, inventory, orders, customers, sellers, and shipping.
 
-Establish relationships between different entities in the database
+Establish relationships between different entities in the database.
 
-Develop stored procedures for efficient data insertion and management
+Develop stored procedures for efficient data insertion and management.
 
-Implement queries to extract meaningful business insights
+Implement queries to extract meaningful business insights.
 
-Ensure data integrity through proper constraints and foreign key relationships
+Ensure data integrity through proper constraints and foreign key relationships.
 
 
-Steps Taken to Complete the Project:
+### Steps Taken to Complete the Project:
 
 Database Design:
 Created tables for various entities such as order_detail, inventory, product, category, condition, seller, orders, consumer, address, shipping_type, package, and shipment.
@@ -39,5 +39,6 @@ Developed SQL queries to extract useful information from the database, such as i
 
 Table Alterations:
 Modified existing tables to add necessary constraints and foreign key relationships.
+
 Testing and Validation:
 Executed the stored procedures and queries to ensure proper functionality and data retrieval.
